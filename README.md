@@ -28,6 +28,10 @@ A simple solitaire war gamem, built with React and Vite.
 ## Installation
 
 ```bash
+
+# Make sure you are on desketop
+cd ~\Desktop
+
 # Clone the repository
 git clone https://github.com/UX-ZERO/Simple-solitaire-war.git
 
