@@ -1,6 +1,6 @@
 # Card War Game
 
-A simple solitaire war gamem, built with React and Vite.
+A simple solitaire war game that plays in your browser, built with React and Vite.
 
 ## Features
 
