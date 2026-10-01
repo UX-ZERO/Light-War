@@ -29,7 +29,7 @@ A simple solitaire war game that plays in your browser, built with React and Vit
 
 ```bash
 
-# Make sure you are on desketop
+# Make sure you are on desktop
 cd ~\Desktop
 
 # Clone the repository
